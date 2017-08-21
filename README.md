@@ -1,6 +1,8 @@
 ## FOUT example for create-react-app
 
-If your add custom font to React app (like Dan Abramov expained [on stackoverflow](https://stackoverflow.com/questions/41676054/how-to-add-fonts-to-create-react-app-based-projects)), you will get following behavior during first load.
+This is example repository for the [Issue #2987](https://github.com/facebookincubator/create-react-app/issues/2987).
+
+If your add custom font to React app (like Dan Abramov expained [on stackoverflow](https://stackoverflow.com/questions/41676054/how-to-add-fonts-to-create-react-app-based-projects)), you will get following behavior during first page load.
 
 ![FOUT example](/fout.gif "FOUT example")
 
